@@ -1,3 +1,9 @@
+'''
+Author: Bartłomiej Jamiołkowski
+Date: 28.10.2022
+Topic: Aho-Corasick automaton
+'''
+
 # Klasa implementująca iterator
 class GraphIterator:
     def __init__(self, visited_nodes):

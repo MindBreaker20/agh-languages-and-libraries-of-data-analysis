@@ -1,3 +1,9 @@
+'''
+Author: Bartłomiej Jamiołkowski
+Date: 28.10.2022
+Topic: Aho-Corasick automaton
+'''
+
 # Budowanie automatu
 def build(patterns):
     goto, fail_links, dictionary_links = {}, {}, {}
@@ -113,8 +119,17 @@ def search(goto, fail_links, pattern_nodes, dictionary_links, text):
 
 
 if __name__ == '__main__':
-    text_string = "aaabc"
-    pattern_strings = ["abc", "aab", "cba"]
-    trie, f_links, p_nodes, d_links = build(pattern_strings)
-    pattern_indexes = search(trie, f_links, p_nodes, d_links, text_string)
-    print(pattern_indexes)
+    while True:
+        text_string = input("Enter your string: ")
+        if text_string == "":
+            break
+        pattern_strings = []
+        while True:
+            your_pattern = input("Enter your pattern: ")
+            if your_pattern == "":
+                break
+            else:
+                pattern_strings.append(your_pattern)
+        trie, f_links, p_nodes, d_links = build(pattern_strings)
+        pattern_indexes = search(trie, f_links, p_nodes, d_links, text_string)
+        print(pattern_indexes)
