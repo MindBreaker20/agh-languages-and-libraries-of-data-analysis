@@ -10,6 +10,8 @@
 
 4. Library Management System
 
+![image](https://github.com/bjam24/agh-languages-and-libraries-of-data-analysis/assets/61807667/443e1b4b-7137-4910-be4b-38ca69219c7d)
+
 6. Solar power plant partial analysis
 
 ![image](https://github.com/bjam24/agh-languages-and-libraries-of-data-analysis/assets/61807667/b1f22869-8c28-40bf-b439-39dec8790719)
