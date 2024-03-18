@@ -6,9 +6,8 @@ and other projects called homeworks.
 ## Topics
 ### Project - Tautology
 
-<video id="video" width="320" height="240" controls autoplay>
-  <source src="images/tautology.mp4" type="video/mp4">
-</video>
+<iframe width="280" height="157" src="images/tautology.mp4" frameborder="0" allowfullscreen></iframe>
+
 
 
 
