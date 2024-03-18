@@ -1,5 +1,7 @@
 # Languages and libraries of data analysis
 ## Description
+This repository was made for the Languages and libraries of data analysis course at the AGH UST in 2022/2023. Repository contains one major project about tautology
+and other projects called homeworks.
 
 ## Topics
 
