@@ -6,7 +6,8 @@ and other projects called homeworks.
 ## Topics
 ### Project - Tautology
 
-<iframe width="280" height="157" src="images/tautology.mp4" frameborder="0" allowfullscreen></iframe>
+https://github.com/bjam24/agh-languages-and-libraries-of-data-analysis/assets/61807667/95d10c7f-47d8-4cd0-9564-b039f24bdaf2
+
 
 
 
