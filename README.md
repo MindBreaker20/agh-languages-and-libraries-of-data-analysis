@@ -12,14 +12,8 @@ Below is an example how described code works. It can be also used as an instruct
 
 https://github.com/bjam24/agh-languages-and-libraries-of-data-analysis/assets/61807667/95d10c7f-47d8-4cd0-9564-b039f24bdaf2
 
-
-
-
-
-
-
-
-1. Aho-Corasick Automaton
+### Homeworks - another projects
+**1. Aho-Corasick Automaton**
 
 ![image](https://github.com/bjam24/agh-languages-and-libraries-of-data-analysis/assets/61807667/05d172e0-0776-4cb9-9811-2eb98e5435c2)
 
