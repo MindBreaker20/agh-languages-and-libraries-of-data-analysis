@@ -1,4 +1,7 @@
 # Languages and libraries of data analysis
+## Description
+
+## Topics
 
 1. Aho-Corasick Automaton
 
@@ -21,3 +24,5 @@
 7. Tautology
 
 ![image](https://github.com/bjam24/agh-languages-and-libraries-of-data-analysis/assets/61807667/d6a30f74-14c2-4bb3-820e-2442b3b34b37)
+
+## Technology stack
