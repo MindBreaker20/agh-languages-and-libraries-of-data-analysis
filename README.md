@@ -6,7 +6,7 @@ and other projects called homeworks.
 ## Topics
 ### Project - Tautology
 
-![](images/tautology.gif)
+![](images/tautology.mp4)
 
 
 1. Aho-Corasick Automaton
