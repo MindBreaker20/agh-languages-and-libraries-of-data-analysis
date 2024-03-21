@@ -19,6 +19,7 @@ The Aho-Corasick algorithm is one of the text pattern search algorithms. It find
 My program returns indexes of every pattern in given text. 
 
 **How to run program**
+
 You can open this program in Pycharm and run it. First you enter your text. After that you are constantly asked to provide patterns. Finally you click enter and program
 returns results.
 
