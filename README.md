@@ -14,6 +14,8 @@ https://github.com/bjam24/agh-languages-and-libraries-of-data-analysis/assets/61
 
 ### Homeworks - another projects
 **1. Aho-Corasick Automaton**
+The Aho-Corasick algorithm is one of the text pattern search algorithms. It finds occurrences of words from a dictionary (a given set of patterns) in the text.
+My program returns indexes of every pattern in given text.
 
 ![image](https://github.com/bjam24/agh-languages-and-libraries-of-data-analysis/assets/61807667/05d172e0-0776-4cb9-9811-2eb98e5435c2)
 
