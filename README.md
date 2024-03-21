@@ -13,10 +13,14 @@ Below is an example how described code works. It can be also used as an instruct
 https://github.com/bjam24/agh-languages-and-libraries-of-data-analysis/assets/61807667/95d10c7f-47d8-4cd0-9564-b039f24bdaf2
 
 ### Homeworks - another projects
-**1. Aho-Corasick Automaton**
+#### 1. Aho-Corasick Automaton
 
 The Aho-Corasick algorithm is one of the text pattern search algorithms. It finds occurrences of words from a dictionary (a given set of patterns) in the text.
-My program returns indexes of every pattern in given text.
+My program returns indexes of every pattern in given text. 
+
+**How to run program**
+You can open this program in Pycharm and run it. First you enter your text. After that you are constantly asked to provide patterns. Finally you click enter and program
+returns results.
 
 ![image](https://github.com/bjam24/agh-languages-and-libraries-of-data-analysis/assets/61807667/05d172e0-0776-4cb9-9811-2eb98e5435c2)
 
