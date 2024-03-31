@@ -6,7 +6,7 @@ and other projects called homeworks.
 ## Topics
 ### Project - Tautology
 The purpose of this project is writing expression in console in Pycharm to check if mentioned expression is tautology or not. The advantage of my code is that
-user can check unlimited number of expressions. The only limits are imagination and Python itself.
+user can check unlimited number of expressions. The only limits are users's imagination and Python itself.
 
 Below is an example how described code works. It can be also used as an instruction how to run my program.
 
