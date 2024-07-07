@@ -32,11 +32,11 @@ returns results (indexes where patterns in text occure).
 3. Aho-Corasick Automaton OOP
 
 4. Library Management System
-
+Below is presented a menu of library management system. This was only homework so I do not use there design patterns.
 ![image](https://github.com/bjam24/agh-languages-and-libraries-of-data-analysis/assets/61807667/443e1b4b-7137-4910-be4b-38ca69219c7d)
 
 6. Solar power plant partial analysis
-
+The only task was to create below plot.
 ![image](https://github.com/bjam24/agh-languages-and-libraries-of-data-analysis/assets/61807667/b1f22869-8c28-40bf-b439-39dec8790719)
 
 
