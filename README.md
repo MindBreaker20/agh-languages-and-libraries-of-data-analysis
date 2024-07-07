@@ -1,9 +1,9 @@
-# Languages and libraries of data analysis
+# Languages and Libraries of Data Analysis 📈📊
 ## Description
-This repository was made for the Languages and libraries of data analysis course at the AGH UST in 2022/2023. Repository contains one major project about tautology
+This repository was made for Languages and Libraries of Data Analysis course at the AGH UST in 2022/2023. Repository contains one major project about tautology
 and other projects called homeworks.
 
-## Topics
+## Topics 📝
 ### Project - Tautology
 The purpose of this project is writing expression in console in Pycharm to check if mentioned expression is tautology or not. The advantage of my code is that
 user can check unlimited number of expressions. The only limits are users's imagination and Python itself.
@@ -21,7 +21,7 @@ My program returns indexes of every pattern in given text.
 **How to run program**
 
 You can open this program in Pycharm and run it. First you enter your text. After that you are constantly asked to provide patterns. Finally you click enter and program
-returns results.
+returns results (indexes where patterns in text occure).
 
 ![image](https://github.com/bjam24/agh-languages-and-libraries-of-data-analysis/assets/61807667/05d172e0-0776-4cb9-9811-2eb98e5435c2)
 
